@@ -1,0 +1,12 @@
+c:\users\tumay\documents\visual studio 2015\Projects\Tıklama\Tıklama\bin\Debug\Tıklama.exe.config
+c:\users\tumay\documents\visual studio 2015\Projects\Tıklama\Tıklama\bin\Debug\Tıklama.exe
+c:\users\tumay\documents\visual studio 2015\Projects\Tıklama\Tıklama\bin\Debug\Tıklama.pdb
+c:\users\tumay\documents\visual studio 2015\Projects\Tıklama\Tıklama\obj\Debug\Tıklama.csprojResolveAssemblyReference.cache
+c:\users\tumay\documents\visual studio 2015\Projects\Tıklama\Tıklama\obj\Debug\Tıklama.Form1.resources
+c:\users\tumay\documents\visual studio 2015\Projects\Tıklama\Tıklama\obj\Debug\Tıklama.Properties.Resources.resources
+c:\users\tumay\documents\visual studio 2015\Projects\Tıklama\Tıklama\obj\Debug\Tıklama.csproj.GenerateResource.Cache
+c:\users\tumay\documents\visual studio 2015\Projects\Tıklama\Tıklama\obj\Debug\Tıklama.exe
+c:\users\tumay\documents\visual studio 2015\Projects\Tıklama\Tıklama\obj\Debug\Tıklama.pdb
+D:\vs 2015\Projects\Tıklama\Tıklama\bin\Debug\Tıklama.exe.config
+D:\vs 2015\Projects\Tıklama\Tıklama\obj\Debug\Tıklama.exe
+D:\vs 2015\Projects\Tıklama\Tıklama\obj\Debug\Tıklama.pdb
